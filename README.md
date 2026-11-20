@@ -64,3 +64,4 @@ app/            rutas, layout y API
 components/     Hero, carruseles, Quiz, Booking, Checkout, Confirmation...
 lib/            datos, i18n, precios, disponibilidad, estado global
 ```
+https://sendero-six.vercel.app/
